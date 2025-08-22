@@ -68,7 +68,6 @@ Thanks to the open-source community and free plugin developers.
 
 Built as part of my preparation for the rtCamp Associate Software Engineer role.
 
-
 Would you like a **matching README for the restaurant website** project next?  
 I can also create screenshot placeholders or folder structure if needed.
 
