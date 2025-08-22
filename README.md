@@ -10,7 +10,6 @@ This project demonstrates my ability to work with WordPress themes, customize la
 ---
 
 ## 🛠️ Tech Stack
-
 - **WordPress**
 - **PHP**
 - **HTML / CSS**
