@@ -57,7 +57,6 @@ Activate theme from WordPress admin panel
 Elementor
 
 WPForms
-
 Any others you used
 🙋‍♀️ Author
 Prithi Babu
