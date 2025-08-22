@@ -8,7 +8,6 @@ A beautifully designed and responsive **WordPress Food Blog** developed using a 
 
 This project demonstrates my ability to work with WordPress themes, customize layout using Elementor, and integrate plugins like WPForms for contact functionality.
 ---
-
 ## 🛠️ Tech Stack
 - **WordPress**
 - **PHP**
