@@ -24,7 +24,6 @@ This project demonstrates my ability to work with WordPress themes, customize la
 - ![Homepage](screenshots/homepage.png)
 - ![Blog Page](screenshots/blog.png)
 - ![Contact Page](screenshots/contact.png)
-
 ---
 ## 💡 Key Features
 
