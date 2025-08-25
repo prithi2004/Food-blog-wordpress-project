@@ -26,7 +26,6 @@ This project demonstrates my ability to work with WordPress themes, customize la
 - ![Contact Page](screenshots/contact.png)
 
 ---
-
 ## 💡 Key Features
 
 - 📝 Custom homepage layout with featured recipes
