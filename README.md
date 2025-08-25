@@ -1,7 +1,5 @@
 # 🍴 WordPress Food Blog Project
 
-## 🚀 Live Preview
-[Coming Soon]
 
 ## 📌 Description
 A beautifully designed and responsive **WordPress Food Blog** developed using a free theme and essential plugins. The website is ideal for food bloggers to showcase their recipes, cooking tips, and lifestyle content.
