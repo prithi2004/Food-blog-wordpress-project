@@ -12,7 +12,6 @@ This project demonstrates my ability to work with WordPress themes, customize la
 - **WPForms (Contact Form Plugin)**
 - **Theme:** [Any Free Theme Used – Mention It Here]
 - **Plugins:** Elementor, WPForms, Contact Widgets, etc.
-
 ---
 
 ## 📸 Screenshots
