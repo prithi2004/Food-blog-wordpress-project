@@ -13,7 +13,6 @@ This project demonstrates my ability to work with WordPress themes, customize la
 - **Theme:** [Any Free Theme Used – Mention It Here]
 - **Plugins:** Elementor, WPForms, Contact Widgets, etc.
 ---
-
 ## 📸 Screenshots
 
 > 📷 Add screenshots after deploying  
