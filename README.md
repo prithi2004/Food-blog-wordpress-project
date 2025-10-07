@@ -63,5 +63,3 @@ Would you like a **matching README for the restaurant website** project next?
 I can also create screenshot placeholders or folder structure if needed.
 
 
-
-
