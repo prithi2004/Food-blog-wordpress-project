@@ -65,5 +65,3 @@ I can also create screenshot placeholders or folder structure if needed.
 
 
 
-
-
